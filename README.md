@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Solution Repository
+# Data Structures and Algorithms Solutions Repository
 
 ## Overview
 
