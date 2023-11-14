@@ -1,5 +1,7 @@
 # Data Structures and Algorithms Solutions Repository
 
+**Note:-This is Not yet Available but it will soon!**
+
 ## Overview
 
 Welcome to the Data Structures and Algorithms repository! This collection houses my solutions to coding problems sourced from Geeks for Geeks, LeetCode, and HackerRank. The repository focuses on implementing and understanding fundamental data structures and algorithms, providing a comprehensive resource for both learning and reference.
