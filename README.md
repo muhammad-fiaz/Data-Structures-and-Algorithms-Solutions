@@ -1,10 +1,47 @@
 # Data Structures and Algorithms Solutions Repository
 
-**Note:-This is Not yet Available but it will soon!**
+Explore a collection of my solutions to coding problems from Geeks for Geeks, LeetCode, and HackerRank and more. This repository is a dedicated space for implementing and understanding essential data structures and algorithms. Happy coding!
+
+**Note:-Not All Solutions are yet Available, but it will soon!**
+
+# Table of Contents
+
+- [Data Structures and Algorithms Solutions Repository](#data-structures-and-algorithms-solutions-repository)
+    - [Overview](#overview)
+    - [Repository Structure](#repository-structure)
+    - [Key Features](#key-features)
+    - [License](#license)
+    - [Contribution](#contribution)
+    - [Happy Coding!](#happy-coding)
+  
 
 ## Overview
 
-Welcome to the Data Structures and Algorithms repository! This collection houses my solutions to coding problems sourced from Geeks for Geeks, LeetCode, and HackerRank. The repository focuses on implementing and understanding fundamental data structures and algorithms, providing a comprehensive resource for both learning and reference.
+Welcome to the Data Structures and Algorithms repository! This collection houses my solutions to coding problems sourced from Geeks for Geeks, LeetCode, and HackerRank and more. The repository focuses on implementing and understanding fundamental data structures and algorithms, providing a comprehensive resource for both learning and reference.
+
+## Repository Structure
+
+    Data-Structures-and-Algorithms-Solutions/
+    ├── LeetCode/
+    │   └── CPlus/
+    │       └── Easy/
+    │           └── Two Sum/
+    │               └── Solution.cpp
+    ├── .gitignore
+    |── CODE_OF_CONDUCT.md
+    ├── CONTRIBUTING.md
+    ├── LICENSE.md
+    └── README.md
+
+
+
+| Directory/File              | Description                          |
+|-----------------------------|--------------------------------------|
+| `LeetCode/`                 | All solutions for LeetCode problems. |
+| `CONTRIBUTING.md`           | Guidelines for contributors.         |
+| `LICENSE.md`                | The license for the repository.      |
+| `README.md`                 | Main documentation file.             |
+
 
 ## Key Features
 
@@ -12,9 +49,14 @@ Welcome to the Data Structures and Algorithms repository! This collection houses
 - **Core Concepts:** In-depth implementation of essential data structures (arrays, linked lists, trees, graphs) and algorithms (sorting, searching, optimization).
 - **Organized Structure:** Problems are categorized for easy navigation, enabling quick access to specific DSA topics.
 
+## License
+
+This project is licensed under the terms of the **MIT License** - see the [LICENSE](./LICENSE) file for details.
+
+
 ## Contribution
 
-Contributions are welcome! If you identify issues, have improvements to suggest, or want to add your own solutions, please feel free to create a pull request. This collaborative effort aims to create a robust resource for the programming community.
+Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines and make sure to follow the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). If you identify issues, have improvements to suggest, or want to add your own solutions, feel free to create a pull request. This collaborative effort aims to create a robust resource for the programming community.
 
 ## Happy Coding!
 
