@@ -2,7 +2,9 @@
 
 ## Approach
 
+
 The Two Sum problem is efficiently solved using a hash map (`numMap`) to store the complement of each element along with its index. The algorithm iterates through the array once, calculating the complement for each element. If the complement is found in the hash map, it implies a pair with the target sum exists, and the function returns the indices of the two elements.
+
 
 ## Implementation
 
@@ -25,6 +27,7 @@ public:
     }
 };
 
+
 ```
 ```cpp
     Solution solution;
@@ -37,3 +40,4 @@ public:
 In this example, the array nums is different, and the target sum is set to 9. The comment explains that the expected result is [2, 4] because the elements at indices 2 and 4 in the array add up to the target sum.
 
 This solution has a time complexity of O(n) and a space complexity of O(n), making it an efficient way to solve the "Two Sum" problem. The hash map allows for constant-time lookups, optimizing the overall performance of the algorithm.
+

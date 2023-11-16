@@ -4,6 +4,7 @@
 
 class Solution {
 public:
+
     static std::vector<int> twoSum(std::vector<int>& nums, int target) {
         // Create a hash map to store the complement of each element along with its index
         std::unordered_map<int, int> numMap;
@@ -48,3 +49,4 @@ int main() {
 
     return 0;
 }
+

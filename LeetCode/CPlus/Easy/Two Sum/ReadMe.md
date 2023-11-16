@@ -5,20 +5,24 @@ This repository contains my solutions to various Data Structures and Algorithms 
 ## Problems
 
 1. **Two Sum**
+
     - **Question:** [./Question.md](./Question.md)
     - **Description:** Given an array of integers and a target, find two numbers that add up to the target.
     - **Difficulty:** Easy
     - **Solution:** [Two Sum Solution](./Solution.cpp)
     - **LeetCode Link:** [Two Sum on LeetCode](https://leetcode.com/problems/two-sum/)
+
     - **Issues:** [Report Issue](https://github.com/muhammad-fiaz/Data-Structures-and-Algorithms-Solutions/issues/new?title=Issue%20with%20Two%20Sum)
 
 ## Usage
 
 To understand and run the solution, follow these steps:
 
+
 1. Open [./Question.md](./Question.md) to view the problem statement.
 2. Check the provided solution in [Two Sum Solution](./Solution.cpp).
 3. For additional context, refer to the problem on LeetCode via [Two Sum on LeetCode](https://leetcode.com/problems/two-sum/).
+
 
 ## Reporting Issues
 

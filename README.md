@@ -53,6 +53,7 @@ Welcome to the Data Structures and Algorithms repository! This collection houses
     |-- README.md
 
 
+
 | Directory/File              | Description                          |
 |-----------------------------|--------------------------------------|
 | `LeetCode/`                 | All solutions for LeetCode problems. |
@@ -68,6 +69,7 @@ Welcome to the Data Structures and Algorithms repository! This collection houses
 - **Organized Structure:** Problems are categorized for easy navigation, enabling quick access to specific DSA topics.
 - **Detailed Explanation:** Each solution is accompanied by a detailed explanation of the approach, implementation, and time/space complexity.
 - **Implementation:** All solutions can be compiled and run locally using cmake, allowing for easy testing and modification.
+
 
 ## License
 

@@ -1,3 +1,4 @@
+
 # This file handles building each task as sub-project.
 #
 # Each task becomes an independent project in which you can experiment.
@@ -15,3 +16,4 @@ set(CMAKE_CXX_STANDARD 23)
 add_executable(Two_Sum LeetCode/CPlus/Easy/Two Sum/Solution.cpp)
 
 add_executable(Add_Two_Numbers LeetCode/CPlus/Medium/Add Two Numbers/Solution.cpp)
+
