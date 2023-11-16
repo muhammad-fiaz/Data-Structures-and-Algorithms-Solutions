@@ -29,8 +29,6 @@ public:
 };
 
 int main() {
-    // Example usage of the twoSum function
-    Solution solution;
 
     // Input array
     std::vector<int> nums = {2, 7, 11, 15};
