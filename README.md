@@ -22,17 +22,35 @@ Welcome to the Data Structures and Algorithms repository! This collection houses
 ## Repository Structure
 
     Data-Structures-and-Algorithms-Solutions/
-    ├── LeetCode/
-    │   └── CPlus/
-    │       └── Easy/
-    │           └── Two Sum/
-    │               └── Solution.cpp
-    ├── .gitignore
-    |── CODE_OF_CONDUCT.md
-    ├── CONTRIBUTING.md
-    ├── LICENSE.md
-    └── README.md
-
+    |-- LeetCode/
+    |   |-- CPlus/
+    |   |   |-- Easy/
+    |   |   |   |-- Problem Names/
+    |   |   |   |   |-- Solution.cpp
+    |   |   |   |   |-- Explanation.md
+    |   |   |   |   |-- README.md
+    |   |   |   |   |-- Test.cpp
+    |   |   |   |   |-- Question.md
+    |   |   |-- Medium/
+    |   |   |   |-- Problem Names/
+    |   |   |   |   |-- Solution.cpp
+    |   |   |   |   |-- Explanation.md
+    |   |   |   |   |-- README.md
+    |   |   |   |   |-- Test.cpp
+    |   |   |   |   |-- Question.md
+    |   |   |-- Hard/
+    |   |   |   |-- Problem Names/
+    |   |   |   |   |-- Solution.cpp
+    |   |   |   |   |-- Explanation.md
+    |   |   |   |   |-- README.md
+    |   |   |   |   |-- Test.cpp
+    |   |   |   |   |-- Question.md
+    |-- .gitignore
+    |-- CODE_OF_CONDUCT.md
+    |-- CONTRIBUTING.md
+    |-- CMakeLists.txt
+    |-- LICENSE.md
+    |-- README.md
 
 
 | Directory/File              | Description                          |
@@ -48,6 +66,8 @@ Welcome to the Data Structures and Algorithms repository! This collection houses
 - **Wide Coverage:** Solutions to diverse coding problems from Geeks for Geeks, LeetCode, and HackerRank.
 - **Core Concepts:** In-depth implementation of essential data structures (arrays, linked lists, trees, graphs) and algorithms (sorting, searching, optimization).
 - **Organized Structure:** Problems are categorized for easy navigation, enabling quick access to specific DSA topics.
+- **Detailed Explanation:** Each solution is accompanied by a detailed explanation of the approach, implementation, and time/space complexity.
+- **Implementation:** All solutions can be compiled and run locally using cmake, allowing for easy testing and modification.
 
 ## License
 
