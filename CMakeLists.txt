@@ -1,14 +1,14 @@
+# This file handles building each task as sub-project.
+#
+# Each task becomes an independent project in which you can experiment.
+#
+# Tasks are added as separate sub-projects so as compilation errors in
+# one task don't affect another task.
+
 cmake_minimum_required(VERSION 3.26)
-project(Data_Structures_and_Algorithms_Solutions)
+project(Data-Structures-and-Algorithms-Solutions)
 
 set(CMAKE_CXX_STANDARD 23)
 
-# Get a list of all .cpp files in the project
-file(GLOB_RECURSE SRC_FILES
-        "${CMAKE_SOURCE_DIR}/LeetCode/**/*.cpp"
-        "${CMAKE_SOURCE_DIR}/src/**/*.cpp"
-)
 
-# Add all .cpp files to the executable
-add_executable(Data_Structures_and_Algorithms_Solutions ${SRC_FILES})
-
+add_executable(Two_Sum LeetCode/CPlus/Easy/Two Sum/Solution.cpp)

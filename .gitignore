@@ -1,1 +1,8 @@
 /cmake-build-debug/
+
+# Ignore CMake build folders
+build/
+Debug/
+Release/
+
+*.exe
