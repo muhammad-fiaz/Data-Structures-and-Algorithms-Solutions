@@ -6,9 +6,9 @@ This repository contains my solutions to various Data Structures and Algorithms 
 
 1. **Two Sum**
     - **Question:** [./Question.md](./Question.md)
-    - **Description:** Given an array of integers and a target, find two numbers that add up to the target.
+    - **Description:** You are given two non-empty linked lists representing two non-negative integers.
     - **Difficulty:** Medium
-    - **Solution:** [Two Sum Solution](./Solution.cpp)
+    - **Solution:** [Add Two Numbers Solution](./Solution.cpp)
     - **LeetCode Link:** [Add Two Numbers on LeetCode](https://leetcode.com/problems/add-two-numbers/)
     - **Issues:** [Report Issue](https://github.com/muhammad-fiaz/Data-Structures-and-Algorithms-Solutions/issues/new)
 ## Usage
