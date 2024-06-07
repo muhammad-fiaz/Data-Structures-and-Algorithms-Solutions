@@ -8,3 +8,28 @@ Release/
 
 *.exe
 
+.idea/
+
+# Ignore Visual Studio files
+*.suo
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Ignore Xcode files
+*.xcodeproj
+*.xcworkspace
+*.xcuserdatad
+
+# Ignore Eclipse files
+*.cproject
+*.project
+*.settings/
+*.pydevproject
+
+# Ignore Sublime Text files
+*.sublime-project
+*.sublime-workspace
+
+
