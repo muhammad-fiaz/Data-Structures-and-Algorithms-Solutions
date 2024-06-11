@@ -13,7 +13,9 @@ project(Data-Structures-and-Algorithms-Solutions)
 set(CMAKE_CXX_STANDARD 23)
 
 # Add each solution here to execute it
-add_executable(Two_Sum LeetCode/CPlus/Easy/Two Sum/Solution.cpp)
+file(GLOB SOLUTION_SOURCES "LeetCode/CPlus/*.cpp")
 
-add_executable(Add_Two_Numbers LeetCode/CPlus/Medium/Add Two Numbers/Solution.cpp)
-
+foreach(SOURCE_FILE ${SOLUTION_SOURCES})
+    get_filename_component(TARGET_NAME ${SOURCE_FILE} NAME_WE)
+    add_executable(${TARGET_NAME} ${SOURCE_FILE})
+endforeach()
