@@ -2,7 +2,7 @@
 
 Explore a collection of my solutions to coding problems from Geeks for Geeks, LeetCode, HackerRank, and more. This repository is a dedicated space for implementing and understanding essential data structures and algorithms. Happy coding!
 
-**Note:- Not All Solutions are yet available, but they will soon! So Make Sure to Star ⭐ this repository. if you want to contribute fork this repository**
+**Note:- Not All Solutions are yet available, but they will soon! So Make Sure to Star ⭐ this repository. if you want to contribute then fork this repository**
 
 # Table of Contents
 
@@ -17,7 +17,7 @@ Explore a collection of my solutions to coding problems from Geeks for Geeks, Le
 
 ## Overview
 
-Welcome to the Data Structures and Algorithms repository! This collection houses my solutions to coding problems sourced from Geeks for Geeks, LeetCode, and HackerRank and more. The repository focuses on implementing and understanding fundamental data structures and algorithms, providing a comprehensive resource for both learning and reference.
+Welcome to the Data Structures and Algorithms repository! This collection houses my solutions to coding problems sourced from Geeks for Geeks, LeetCode, HackerRank, and more. The repository focuses on implementing and understanding fundamental data structures and algorithms, providing a comprehensive resource for learning and reference.
 
 ## Repository Structure
 
@@ -67,8 +67,8 @@ Welcome to the Data Structures and Algorithms repository! This collection houses
 - **Wide Coverage:** Solutions to diverse coding problems from Geeks for Geeks, LeetCode, and HackerRank.
 - **Core Concepts:** In-depth implementation of essential data structures (arrays, linked lists, trees, graphs) and algorithms (sorting, searching, optimization).
 - **Organized Structure:** Problems are categorized for easy navigation, enabling quick access to specific DSA topics.
-- **Detailed Explanation:** Each solution is accompanied by a detailed explanation of the approach, implementation, and time/space complexity.
-- **Implementation:** All solutions can be compiled and run locally using cmake, allowing for easy testing and modification.
+- **Detailed Explanation:** A detailed explanation of the approach, implementation, and time/space complexity accompanies each solution.
+- **Implementation:** All solutions can be compiled and run locally using CMake, allowing easy testing and modification.
 
 
 ## License
@@ -78,7 +78,7 @@ This project is licensed under the terms of the **MIT License** - see the [LICEN
 
 ## Contribution
 
-Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines and make sure to follow the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). If you identify issues, have improvements to suggest, or want to add your own solutions, feel free to create a pull request. This collaborative effort aims to create a robust resource for the programming community.
+Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines and make sure to follow the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). If you identify issues, have improvements to suggest, or want to add your solutions, feel free to create a pull request. This collaborative effort aims to create a robust resource for the programming community.
 
 ## Happy Coding!
 
